@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head
+mkdir -m 751 dir_holberton
